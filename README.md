@@ -63,9 +63,9 @@ Estácio de Sá – São Paulo (2020 - 2023)
 ## ⚡ Estatísticas do GitHub (Opcional)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klebermsilva&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=klebermsilva&show_icons=true&theme=midnight-purple" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebermsilva&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebermsilva&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
