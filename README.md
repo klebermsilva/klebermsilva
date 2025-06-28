@@ -61,7 +61,7 @@ Estácio de Sá – São Paulo (2020 - 2023)
 ---
 
 ## 💻 Portifólio
-  [!site do GitHub](https://github.com)
+  [Curso_python](https://github.com/klebermsilva/curso_python)
 
 
 ---
